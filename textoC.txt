@@ -1,7 +1,9 @@
-textoC
-textoal_adiç_doY
+teCalterado
+
+textoalteradoY_adição_ALTERADO
 textoC
 textoC
 Textoalter_adiç_adoX
 textoC
-t_adiç_extoC
+teC_adição
+
