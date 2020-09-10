@@ -1,7 +1,7 @@
 textoC
-textoalteradoY
+textoalteradoY_adição
 textoC
 textoC
-TextoalteradoX
+TextoaltX
 textoC
-textoC
+teC_adição
